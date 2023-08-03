@@ -6,7 +6,7 @@ import App from './App';
 const user = JSON.parse(localStorage.getItem('user'))
 
 const client = new ApolloClient({
-  uri: "http://localhost:8080/graphql",
+  uri: "https://world-xplorer-api.vercel.app/graphql",
   cache: new InMemoryCache(),
   headers: {
     authorization: user ? `Bearer ${user.accessToken}` : ' ',
