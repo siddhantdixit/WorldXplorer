@@ -1,7 +1,8 @@
 
 # WorldXplorer
-
 This is a web application for hotel & resort booking.
+
+![Light](https://github.com/siddhantdixit/WorldXplorer/assets/22856752/2cb423ea-e7b9-46cd-8cbd-ee5561d363c0)
 
 ### Built With
 * [React](https://reactjs.org/)
